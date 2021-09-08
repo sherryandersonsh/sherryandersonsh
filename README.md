@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://sherryandersonsh.github.io/sherryanderson.github.io/](https://sherryandersonsh.github.io/sherryanderson.github.io/)
+- 👨‍💻 All of my projects are available at [https://sherryandersonsh.github.io/](https://sherryandersonsh.github.io/)
 
 - 📫 How to reach me **sherryanderson.data@gmail.com**
 
